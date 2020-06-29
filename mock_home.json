@@ -1,0 +1,208 @@
+{
+    "allOrders": [
+        {
+            "time": 7,
+            "orders": 2
+        },
+        {
+            "time": 8,
+            "orders": 2
+        },
+        {
+            "time": 9,
+            "orders": 2
+        },
+        {
+            "time": 10,
+            "orders": 20
+        },
+        {
+            "time": 11,
+            "orders": 20
+        },
+        {
+            "time": 12,
+            "orders": 19
+        },
+        {
+            "time": 13,
+            "orders": 9
+        },
+        {
+            "time": 14,
+            "orders": 8
+        },
+        {
+            "time": 15,
+            "orders": 4
+        },
+        {
+            "time": 16,
+            "orders": 10
+        },
+        {
+            "time": 17,
+            "orders": 5
+        },
+        {
+            "time": 18,
+            "orders": 3
+        }
+    ],
+    "pickPending": [
+        {
+            "time": 13,
+            "orders": 4
+        },
+        {
+            "time": 14,
+            "orders": 4
+        },
+        {
+            "time": 15,
+            "orders": 10
+        },
+        {
+            "time": 16,
+            "orders": 5
+        },
+        {
+            "time": 17,
+            "orders": 3
+        }
+    ],
+    "dispensePending": [
+        {
+            "time": 8,
+            "orders": 2
+        },
+        {
+            "time": 9,
+            "orders": 1
+        },
+        {
+            "time": 10,
+            "orders": 15
+        },
+        {
+            "time": 11,
+            "orders": 17
+        },
+        {
+            "time": 12,
+            "orders": 13
+        },
+        {
+            "time": 13,
+            "orders": 9
+        },
+        {
+            "time": 14,
+            "orders": 8
+        },
+        {
+            "time": 15,
+            "orders": 4
+        },
+        {
+            "time": 16,
+            "orders": 10
+        },
+        {
+            "time": 17,
+            "orders": 5
+        },
+        {
+            "time": 18,
+            "orders": 3
+        }
+    ],
+    "dispenseOnlyPending": [
+        {
+            "time": 7,
+            "orders": 15
+        },
+        {
+            "time": 9,
+            "orders": 4
+        },
+        {
+            "time": 13,
+            "orders": 9
+        },
+        {
+            "time": 14,
+            "orders": 3
+        },
+        {
+            "time": 17,
+            "orders": 10
+        },
+        {
+            "time": 19,
+            "orders": 5
+        }
+    ],
+    "slots":[
+        {
+            "time": 6,
+            "slots": 2
+        },
+        {
+            "time": 7,
+            "slots": 2
+        },
+        {
+            "time": 8,
+            "slots": 2
+        },
+        {
+            "time": 9,
+            "slots": 1
+        },
+        {
+            "time": 10,
+            "slots": 15
+        },
+        {
+            "time": 11,
+            "slots": 17
+        },
+        {
+            "time": 12,
+            "slots": 13
+        },
+        {
+            "time": 13,
+            "slots": 9
+        },
+        {
+            "time": 14,
+            "slots": 8
+        },
+        {
+            "time": 15,
+            "slots": 4
+        },
+        {
+            "time": 16,
+            "slots": 10
+        },
+        {
+            "time": 17,
+            "slots": 5
+        },
+        {
+            "time": 18,
+            "slots": 3
+        },
+        {
+            "time": 19,
+            "slots": 5
+        },
+        {
+            "time": 20,
+            "slots": 3
+        }
+    ]
+}
